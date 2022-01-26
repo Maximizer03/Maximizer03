@@ -9,4 +9,4 @@ Maximizer03/Maximizer03 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Maximizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximizer03)](https://github.com/Maximizer03/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.api username=Maximizer03 &theme=radical)
