@@ -37,6 +37,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aman909//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maximizer03-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yuvraj-neema-97354b1a2//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maximizer03-blue?style=flat-square&logo=linkedin"></a>
 <a href="yuvraj.neema.cd.che19@itbhu.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-yuvraj.neema.cd.che19@itbhu.ac.in-blue?style=flat-square&logo=gmail"></a>
 </p>
