@@ -40,7 +40,3 @@
 <a href="https://www.linkedin.com/in/aman909//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aman909909-blue?style=flat-square&logo=linkedin"></a>
 <a href="amanashish.che18@itbhu.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-amanashish.che18@itbhu.ac.in-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximizer03&theme=radical)
