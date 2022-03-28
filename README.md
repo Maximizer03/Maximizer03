@@ -38,5 +38,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aman909//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aman909909-blue?style=flat-square&logo=linkedin"></a>
-<a href="amanashish.che18@itbhu.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-amanashish.che18@itbhu.ac.in-blue?style=flat-square&logo=gmail"></a>
+<a href="yuvraj.neema.cd.che19@itbhu.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-yuvraj.neema.cd.che19@itbhu.ac.in-blue?style=flat-square&logo=gmail"></a>
 </p>
