@@ -27,9 +27,9 @@
 
 <br/>
 
-<a href="https://github.com/aman909909">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aman909909&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman909909&theme=buefy&layout=compact" />
+<a href="https://github.com/Maximizer03">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Maximizer03&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximizer03&theme=buefy&layout=compact" />
 </a>
 
 <br/>
